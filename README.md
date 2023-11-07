@@ -1,5 +1,8 @@
 # GAN for AMP Design
 A GAN-based generator for de novo AMP design
+
+
+
 ![image](https://github.com/ruihan-dong/GAN-for-AMP-Design/blob/main/GAN-Framework.png)
 
 ## Usage
